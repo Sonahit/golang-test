@@ -1,3 +1,3 @@
-module github.com/Sonahit/golang-test
+module github.com/Sonahit/golangtest
 
 go 1.21.1
