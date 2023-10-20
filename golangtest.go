@@ -1,1 +1,1 @@
-package golang_test
+package golangtest
