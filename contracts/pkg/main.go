@@ -1,4 +1,4 @@
-package contracts
+package pkg
 
 func Contract() {
 
